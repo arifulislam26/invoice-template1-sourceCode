@@ -1,0 +1,32 @@
+C:\Users\Akash\source\repos\invoice aia\invoice aia\bin\Debug\invoice aia.exe.config
+C:\Users\Akash\source\repos\invoice aia\invoice aia\bin\Debug\invoice aia.exe
+C:\Users\Akash\source\repos\invoice aia\invoice aia\bin\Debug\invoice aia.pdb
+C:\Users\Akash\source\repos\invoice aia\invoice aia\obj\Debug\invoice_aia.Form1.resources
+C:\Users\Akash\source\repos\invoice aia\invoice aia\obj\Debug\invoice_aia.Properties.Resources.resources
+C:\Users\Akash\source\repos\invoice aia\invoice aia\obj\Debug\invoice aia.csproj.GenerateResource.cache
+C:\Users\Akash\source\repos\invoice aia\invoice aia\obj\Debug\invoice aia.csproj.CoreCompileInputs.cache
+C:\Users\Akash\source\repos\invoice aia\invoice aia\obj\Debug\invoice aia.exe
+C:\Users\Akash\source\repos\invoice aia\invoice aia\obj\Debug\invoice aia.pdb
+C:\Users\Akash\source\repos\invoice aia\invoice aia\bin\Debug\invoice aia.exe.manifest
+C:\Users\Akash\source\repos\invoice aia\invoice aia\bin\Debug\invoice aia.application
+C:\Users\Akash\source\repos\invoice aia\invoice aia\obj\Debug\invoice aia.exe.manifest
+C:\Users\Akash\source\repos\invoice aia\invoice aia\obj\Debug\invoice aia.application
+C:\Users\Akash\source\repos\invoice aia\invoice aia\obj\Debug\invoice_aia.printview.resources
+C:\Users\Akash\source\repos\invoice aia\invoice aia\obj\Debug\invoice aia.csprojAssemblyReference.cache
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\bin\Debug\local invoice aia.exe.config
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\bin\Debug\local invoice aia.exe.manifest
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\bin\Debug\local invoice aia.application
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\bin\Debug\local invoice aia.exe
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\bin\Debug\local invoice aia.pdb
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\invoice_aia.Form1.resources
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\invoice_aia.History.resources
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\invoice_aia.printview.resources
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\invoice_aia.Productdata.resources
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\invoice_aia.Properties.Resources.resources
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\invoice aia.csproj.GenerateResource.cache
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\invoice aia.csproj.CoreCompileInputs.cache
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\local invoice aia.exe.manifest
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\local invoice aia.application
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\local invoice aia.exe
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\local invoice aia.pdb
+C:\Users\Akash\source\repos\invoice aia - Copy\invoice aia\obj\Debug\invoice aia.csprojAssemblyReference.cache

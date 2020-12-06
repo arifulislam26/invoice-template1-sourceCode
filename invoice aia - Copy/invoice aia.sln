@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "invoice aia", "invoice aia\invoice aia.csproj", "{BAB067EE-01CF-4E80-987B-00639554670C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAB067EE-01CF-4E80-987B-00639554670C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB067EE-01CF-4E80-987B-00639554670C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB067EE-01CF-4E80-987B-00639554670C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB067EE-01CF-4E80-987B-00639554670C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8193681A-FD79-49D7-A2FF-480F8012F1B6}
+	EndGlobalSection
+EndGlobal
